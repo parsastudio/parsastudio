@@ -21,16 +21,4 @@ A real-time geopolitical strategy simulation running in the browser.
 * Implemented a custom **WebGL 2.0** pipeline with fragment shaders for procedural map and territory rendering.
 * Low-memory state tracking using bit-packed buffers and local offline persistence via IndexedDB.
 
-#### 2. [CafeRaz](https://github.com/parsastudio/caferaz)
-A full-stack specialized e-commerce platform with complex business logic.
-* **Backend Architecture:** Structured layered design using Next.js Server Actions, dedicated service layers, and schema validations.
-* **Database & Persistence:** **PostgreSQL** integrated with **Prisma ORM** for inventory, dynamic pricing engines, and nested comment trees.
-* **Operations & Auth:** Built-in OTP phone verification, session handling, and a full admin dashboard for orders, coupons, and content management.
-
-#### 3. [Vita](https://github.com/parsastudio/vita)
-A modular personal dashboard combining finance tracking, language acquisition, and offline sync.
-* **Database & Migrations:** Powered by **Drizzle ORM** with SQL migrations for reliable, type-safe data access.
-* **Data Synchronization:** Local-first architecture with custom sync engines ensuring data integrity across devices.
-* **Algorithms:** Implemented the **FSRS** memory algorithm for vocabulary review and rule-based NLP parsers for natural financial entry.
-
 ---
